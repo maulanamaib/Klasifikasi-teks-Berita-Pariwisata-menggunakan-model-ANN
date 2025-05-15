@@ -1,9 +1,9 @@
 streamlit
 pip
-pandas==1.4
 joblib==1.3
 python-time
 scikit-learn
 streamlit-modal
-numpy
 imblearn
+pandas==1.5.3
+numpy==1.23.5

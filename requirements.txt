@@ -5,5 +5,5 @@ joblib==1.3
 python-time
 scikit-learn
 streamlit-modal
-numpy==1.24
+numpy
 imblearn
